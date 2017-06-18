@@ -15,8 +15,8 @@ for i in my_tup:
     print(i)
 
 # Dict
-my_dict = {"name": "Bob", "age": 30, "occupation": "Data Analyst"}
-for key, val in my_dict.iteritems():
+my_dict = {"name": "Laurent", "age": 26, "occupation": "Data Analyst"}
+for key, val in my_dict.items():
     print("My {} is {}".format(key, val))
 
 # Set
